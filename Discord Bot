@@ -32,12 +32,12 @@ def run_discord_bot():
 
     @bot.command(name='+')
     async def dispicable(ctx):
-         if str(ctx.message.author) == 'Colonel ____#2782':
+         if str(ctx.message.author) == 'Colonel #2782':
              await ctx.send('L Reginald')
 
     @bot.command(name='-')
     async def dispicable2(ctx):
-         if str(ctx.message.author) == 'Colonel Coon#2782':
+         if str(ctx.message.author) == 'Colonel #2782':
                 await ctx.send('L Reginald')
 
     @bot.command(name='ORDER66')
