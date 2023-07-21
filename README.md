@@ -68,6 +68,14 @@ All my individual/cool school projects that aren't against honor code and I can 
 * The script intelligently navigates through different workflows based on given inputs, ensuring efficient retrieval of the required data. 
 * Implemented logic to handle various scenarios and streamline the workflow process for improved efficiency and accuracy
 
+**Command-Line UI Course Review Application:**
+
+
+
+* Class related group project - Java - IntelliJ - JDBC, SQLite, Three-layered architecture
+* Created a course-review system with a command line UI that allowed students to login in, write and see course reviews for UVA courses.
+* Worked with two other group members, was mainly responsible for the presentation layer (command line UI) and some of the business logic related to the main menu
+
 **Built Multiple Websites:**
 
 
